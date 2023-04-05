@@ -105,7 +105,7 @@
                 c: "Dogecoin",
                 D: "Shiba inu"
             },
-            correctAnswer: "B"
+            correctAnswer: "b"
         },
         {
             question: "Sur les 3 exemple quel est la bonne manière de déclarer une function ?",
